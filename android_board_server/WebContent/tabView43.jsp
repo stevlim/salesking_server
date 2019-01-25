@@ -1,6 +1,6 @@
 <%-- <%@ page language="java" contentType="text/html; charset=EUC-KR"
     pageEncoding="EUC-KR"%>
-
+  
 <%
 	//여기서 request.getParameter로 안드로이드에서 보낸 값들을 받습니다.
 	//안드로이드에서 보낸 sendMsg = "id="+strings[0]+"&pwd="+strings[1]; 여기서
